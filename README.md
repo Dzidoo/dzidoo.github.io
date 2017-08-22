@@ -1,2 +1,2 @@
-# dzidoo.github.io
+# dzidoo.com
 Dzidoo website
